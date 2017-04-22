@@ -1,0 +1,521 @@
+//White
+
+//creatures
+
+//white creatures 1cc
+Soulmender
+Infantry Veteran
+Yoked Ox
+Elite Vanguard
+Hopeful Eidolon
+Cathedral Sanctifier
+Kor Duelist
+Loyal Pegasus
+
+//white creatures 2cc
+Niblis of the Urn
+Nyx-Fleece Ram
+Sungrace Pegasus
+Ajani's Sunstriker
+Ajani's Pridemate
+Oreskos Swiftclaw
+Blinding Mage
+Ronom Unicorn
+Benalish Cavalry
+Ghost Warden
+Unruly Mob
+Sunspear Shikari
+Steadfast Cathar
+
+//white creatures 3cc
+Eagle of the Watch
+Attended Knight
+Benalish Lancer
+Charging Paladin
+Fiend Hunter
+Ironclad Slayer
+Dromoka Captain
+
+//white creatures 4cc
+Meadowboon
+Cloud Crusader
+Timely Hordemate
+Abzan Battle Priest
+
+//white creatures 5cc
+Serra Angel
+Bazaar Krovod
+Loxodon Partisan
+Patron of the Valiant
+Dawnfeather Eagle
+
+//white creatures xcc
+Goldnight Redeemer
+
+//spells
+
+//white spells 1cc
+Swift Justice
+Daily Regimen
+Demystify
+
+//white spells 2cc
+Divine Favor
+Chosen by Heliod
+Nimbus Wings
+Raise the Alarm
+Gather the Townsfolk
+Brave the Sands
+Murder Investigation
+Ordeal of Heliod
+Long Road Home
+Open the Armory
+
+//white spells 3cc
+Safe Passage
+Narrow Escape
+Banishing Light
+Make a Stand
+Righteous Charge
+
+//white spells 4cc
+Builder's Blessing
+Inspired Charge
+
+//white spells 5cc
+Commander's Authority
+
+//white spells xcc
+
+//Blue
+
+//creatures
+
+//blue creatures 1cc
+Phantasmal Bear
+Sage of Epityr
+
+//blue creatures 2cc
+Azure Mage
+Merfolk Looter
+Flitterstep Eidolon
+Vaporkin
+Omenspeaker
+Coralhelm Guide
+Alluring Siren
+Jeskai Elder
+Incursion Specialist
+
+//blue creatures 3cc
+Exultant Cultist
+Aether Adept
+Scroll Thief
+Simic Fluxmage
+Aeronaut Tinkerer
+Trinket Mage
+Triton Fortune Hunter
+Niblis of Dusk
+Lantern Spirit
+
+//blue creatures 4cc
+Phantasmal Dragon
+Master Thief
+Thassa's Emissary
+Mistfire Adept
+
+//blue creatures 5cc
+Chasm Drake
+Spire Monitor
+Windrider Patrol
+
+//blue creatures xcc
+Benthic Giant
+Scrapdiver Serpent
+Bastion Inventor
+
+//spells
+
+//blue spells 1cc
+Peek
+Diminish
+Aqueous Form
+Wind Zendikon
+
+//blue spells 2cc
+Train of Thought
+Turn to Frog
+Research the Deep
+Taigam's Scheming
+Think Twice
+Eel Umbra
+Ordeal of Thassa
+Ghostform
+Anticipate
+Dance of the Skywise
+Tightening Coils
+
+//blue spells 3cc
+Divination
+Call to Mind
+Infiltrator's Magemark
+Toils of Night and Day
+Hour of Need
+
+//blue spells 4cc
+Foresee
+Dampening Pulse
+Fortune's Favor
+
+//blue spells 5cc
+Switcheroo
+Reverse Engineer
+Illusionary Armor
+Drake Umbra
+
+//blue spells xcc
+Interpret the Signs
+Volition Reins
+
+//Black
+
+//creatures
+
+//black creatures 1cc
+Tormented Soul
+Drainpipe Vermin
+Smolder Initiate
+Typhoid Rats
+Deathgreeter
+Vampire Lacerator
+Sanitarium Skeleton
+Fourth Bridge Prowler
+
+//black creatures 2cc
+Child of Night
+Farbog Revenant
+Daggerdrome Imp
+Ravenous Rats
+Sickle Ripper
+Shambling Ghoul
+Rancid Rats
+Pale Rider of Trostad
+Ghoulcaller's Accomplice
+
+//black creatures 3cc
+Lawless Broker
+Giant Scorpion
+Wakedancer
+Markov Patrician
+Demonic Taskmaster
+Crow of Dark Tidings
+
+//black creatures 4cc
+Smoldering Butcher
+Gravedigger
+Deathgaze Cockatrice
+Skinrender
+Vampire Outcasts
+Null Caller
+Scavenger Drake
+
+//black creatures 5cc
+Stromkirk Patrol
+Keepsake Gorgon
+Morkrut Banshee
+
+//black creatures xcc
+Grixis Slavedriver
+
+//spells
+
+//black spells 1cc
+Disentomb
+Bone Splinters
+Vile Rebirth
+Vampiric Rites
+Undying Evil
+Graf Harvest
+
+//black spells 2cc
+Corpse Churn
+Grave Strength
+Ancestral Vengeance
+Eternal Thirst
+Sign in Blood
+Altar's Reap
+
+//black spells 3cc
+Dead Reckoning
+Drown in Sorrow
+Feast on the Fallen
+Gravepurge
+
+//black spells 4cc
+Moan of the Unhallowed
+Dutiful Return
+
+//black spells 5cc
+Unmake the Graves
+Lash of the Whip
+Famine
+Sanguimancy
+
+//black spells xcc
+Endless Obedience
+Public Execution
+Covenant of Blood
+
+//Red
+
+//creatures
+
+//red creatures 1cc
+Goblin Gaveleer
+
+//red creatures 2cc
+Falkenrath Exterminator
+Ashmouth Hound
+Mogg Flunkies
+Goblin Skycutter
+Reckless Reveler
+Valley Dasher
+Ember-Eye Wolf
+
+//red creatures 3cc
+Manic Vandal
+Fiery Hellhound
+Two-Headed Cerberus
+Blood Ogre
+Spikeshot Goblin
+Hardened Berserker
+Inner-Flame Igniter
+
+//red creatures 4cc
+Bloodfray Giant
+Furnace Whelp
+Scrapyard Mongrel
+Goblin Heelcutter
+Ill-Tempered Cyclops
+Goblin Battle Jester
+
+//red creatures 5cc
+Lightning Shrieker
+Wildfire Cerberus
+Stoneshock Giant
+Kuldotha Ringleader
+Deathforge Shaman
+
+//red creatures xcc
+Markov Warlord
+Shockmaw Dragon
+Volcanic Dragon
+Ogre Geargrabber
+
+//spells
+
+//red spells 1cc
+Dragon Mantle
+Electrickery
+Inflame
+Outnumber
+Magma Spray
+Incite
+
+//red spells 2cc
+Searing Blood
+Lightning Strike
+Fall of the Hammer
+Searing Spear
+Temur Battle Rage
+Nightbird's Clutches
+Sparkmage's Gambit
+
+//red spells 3cc
+Panic Attack
+Act of Treason
+Arc Lightning
+Flames of the Firebrand
+Uncaged Fury
+
+//red spells 4cc
+Chandra's Outrage
+Pyromancer's Assault
+Blood Mist
+
+//red spells 5cc
+Chandra's Fury
+Aggravate
+Flurry of Horns
+
+//red spells xcc
+Blastfire Bolt
+Explosive Impact
+Might Makes Right
+Rolling Thunder
+Blood Feud
+
+//Green
+
+//creatures
+
+//green creatures 1cc
+Elvish Mystic
+
+//green creatures 2cc
+Satyr Grovedancer
+Swordwise Centaur
+Voyaging Satyr
+Satyr Wayfinder
+Deadly Recluse
+Boneyard Wurm
+Baloth Pup
+Primal Druid
+Drudge Beetle
+Scrounging Bandar
+
+//green creatures 3cc
+Battering Krasis
+Centaur Courser
+Sacred Wolf
+Netcaster Spider
+Grazing Gladehart
+Sporecap Spider
+Reclamation Sage
+
+//green creatures 4cc
+Spiked Baloth
+Sultai Flayer
+Wildheart Invoker
+Ivy Lane Denizen
+Longshot Squad
+Pheres-Band Tromper
+Murasa Ranger
+
+//green creatures 5cc
+Acid Web Spider
+Garruk's Packleader
+Greater Basilisk
+Bellowing Tanglewurm
+Adaptive Snapjaw
+Indrik Stomphowler
+
+//green creatures xcc
+Vulpine Goliath
+Nemesis of Mortals
+Baloth Woodcrasher
+Enormous Baloth
+Oakgnarl Warrior
+Archweaver
+
+//spells
+
+//green spells 1cc
+Wreath of Geists
+Prey Upon
+
+//green spells 2cc
+Titanic Growth
+Rampant Growth
+Feed the Clan
+Swell of Growth
+Mantle of Webs
+
+//green spells 3cc
+Harrow
+Roar of Challenge
+Elephant Guide
+
+//green spells 4cc
+Sudden Reclamation
+Lifecrafter's Gift
+Monstrify
+Return to the Earth
+
+//green spells 5cc
+Bestial Menace
+Zendikar's Roil
+Incremental Growth
+Sight of the Scalelords
+Monstrous Onslaught
+Savage Conception
+Wolfkin Bond
+
+//green spells xcc
+Grim Flowering
+
+//Colorless
+
+//artifact creatures
+Clockwork Beetle
+Chronomaton
+Bonded Construct
+Field Creeper
+Myr Sire
+Perilous Myr
+Hovermyr
+Haunted Guardian
+Guardians of Meletis
+Pilgrim's Eye
+Pierce Strider
+Clockwork Condor
+Stone Golem
+Clockwork Hydra
+Lumengrid Gargoyle
+Hexplate Golem
+
+//equipments
+Cathar's Shield
+Bonesplitter
+Trusty Machete
+Peregrine Mask
+Viridian Longbow
+Explorer's Scope
+Gorgon's Head
+Witches' Eye
+Fleetfeather Sandals
+Vulshok Morningstar
+Rogue's Gloves
+Hammer of Ruin
+Heart-Piercer Bow
+Angelic Armaments
+Pennon Blade
+
+//artifacts
+Traveler's Amulet
+Wanderer's Twig
+Terrarion
+Prophetic Prism
+Cellar Door
+Razortip Whip
+Moonglove Extract
+Isolation Cell
+Meteorite
+
+//colored artifacts
+Gold Myr
+Silver Myr
+Iron Myr
+Copper Myr
+Leaden Myr
+
+//multicolors
+Grove Rumbler
+Savage Ventmaw
+Spontaneous Combustion
+Swift Warkite
+Reap What Is Sown
+Armored Wolf-Rider
+Shipwreck Singer
+Extract from Darkness
+Battlewise Hoplite
+Jelenn Sphinx
+Weapons Trainer
+Gleam of Battle
+Nyx Weaver
+Death Frenzy
+Bred for the Hunt
+Nimbus Swimmer
+Maw of the Obzedat
+Campaign of Vengeance
+Blast of Genius
+Izzet Chronarch
