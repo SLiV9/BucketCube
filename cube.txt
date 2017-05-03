@@ -13,6 +13,7 @@ Kor Duelist
 Loyal Pegasus
 
 //white creatures 2cc
+Stormfront Pegasus
 Niblis of the Urn
 Nyx-Fleece Ram
 Sungrace Pegasus
@@ -28,18 +29,17 @@ Sunspear Shikari
 Steadfast Cathar
 
 //white creatures 3cc
+Wild Griffin
 Eagle of the Watch
 Attended Knight
-Benalish Lancer
 Charging Paladin
 Fiend Hunter
 Ironclad Slayer
 Dromoka Captain
 
 //white creatures 4cc
-Meadowboon
+Assault Griffin
 Cloud Crusader
-Timely Hordemate
 Abzan Battle Priest
 
 //white creatures 5cc
@@ -118,10 +118,13 @@ Niblis of Dusk
 Lantern Spirit
 
 //blue creatures 4cc
+Azure Drake
+Cloud Manta
 Phantasmal Dragon
 Master Thief
 Thassa's Emissary
 Mistfire Adept
+Naga Oracle
 
 //blue creatures 5cc
 Chasm Drake
@@ -130,16 +133,13 @@ Windrider Patrol
 
 //blue creatures xcc
 Benthic Giant
-Scrapdiver Serpent
 Bastion Inventor
 
 //spells
 
 //blue spells 1cc
 Peek
-Diminish
 Aqueous Form
-Wind Zendikon
 
 //blue spells 2cc
 Train of Thought
@@ -189,6 +189,7 @@ Deathgreeter
 Vampire Lacerator
 Sanitarium Skeleton
 Fourth Bridge Prowler
+Festering Mummy
 
 //black creatures 2cc
 Child of Night
@@ -199,7 +200,7 @@ Sickle Ripper
 Shambling Ghoul
 Rancid Rats
 Pale Rider of Trostad
-Ghoulcaller's Accomplice
+Doomed Dissenter
 
 //black creatures 3cc
 Lawless Broker
@@ -234,7 +235,6 @@ Bone Splinters
 Vile Rebirth
 Vampiric Rites
 Undying Evil
-Graf Harvest
 
 //black spells 2cc
 Corpse Churn
@@ -249,6 +249,7 @@ Dead Reckoning
 Drown in Sorrow
 Feast on the Fallen
 Gravepurge
+Splendid Agony
 
 //black spells 4cc
 Moan of the Unhallowed
@@ -258,7 +259,6 @@ Dutiful Return
 Unmake the Graves
 Lash of the Whip
 Famine
-Sanguimancy
 
 //black spells xcc
 Endless Obedience
@@ -280,6 +280,7 @@ Goblin Skycutter
 Reckless Reveler
 Valley Dasher
 Ember-Eye Wolf
+Bloodrage Brawler
 
 //red creatures 3cc
 Manic Vandal
@@ -303,7 +304,6 @@ Lightning Shrieker
 Wildfire Cerberus
 Stoneshock Giant
 Kuldotha Ringleader
-Deathforge Shaman
 
 //red creatures xcc
 Markov Warlord
@@ -381,6 +381,7 @@ Netcaster Spider
 Grazing Gladehart
 Sporecap Spider
 Reclamation Sage
+Pouncing Cheetah
 
 //green creatures 4cc
 Spiked Baloth
@@ -395,7 +396,6 @@ Murasa Ranger
 Acid Web Spider
 Garruk's Packleader
 Greater Basilisk
-Bellowing Tanglewurm
 Adaptive Snapjaw
 Indrik Stomphowler
 
@@ -517,5 +517,5 @@ Bred for the Hunt
 Nimbus Swimmer
 Maw of the Obzedat
 Campaign of Vengeance
+Enigma Drake
 Blast of Genius
-Izzet Chronarch
