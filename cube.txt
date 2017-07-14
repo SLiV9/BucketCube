@@ -56,7 +56,6 @@ Goldnight Redeemer
 
 //white spells 1cc
 Swift Justice
-Daily Regimen
 Demystify
 
 //white spells 2cc
@@ -70,6 +69,7 @@ Murder Investigation
 Ordeal of Heliod
 Long Road Home
 Open the Armory
+Act of Heroism
 
 //white spells 3cc
 Safe Passage
@@ -108,20 +108,18 @@ Incursion Specialist
 
 //blue creatures 3cc
 Exultant Cultist
-Aether Adept
 Scroll Thief
 Simic Fluxmage
 Aeronaut Tinkerer
 Trinket Mage
 Triton Fortune Hunter
 Niblis of Dusk
-Lantern Spirit
+Skywinder Drake
 
 //blue creatures 4cc
 Azure Drake
 Cloud Manta
 Phantasmal Dragon
-Master Thief
 Thassa's Emissary
 Mistfire Adept
 Naga Oracle
@@ -130,10 +128,12 @@ Naga Oracle
 Chasm Drake
 Spire Monitor
 Windrider Patrol
+Shimmerscale Drake
 
 //blue creatures xcc
 Benthic Giant
 Bastion Inventor
+Striped Riverwinder
 
 //spells
 
@@ -158,13 +158,13 @@ Tightening Coils
 Divination
 Call to Mind
 Infiltrator's Magemark
-Toils of Night and Day
 Hour of Need
 
 //blue spells 4cc
 Foresee
 Dampening Pulse
 Fortune's Favor
+Hieroglyphic Illumination
 
 //blue spells 5cc
 Switcheroo
@@ -221,11 +221,11 @@ Scavenger Drake
 
 //black creatures 5cc
 Stromkirk Patrol
-Keepsake Gorgon
 Morkrut Banshee
+Nested Ghoul
+Scrounger of Souls
 
 //black creatures xcc
-Grixis Slavedriver
 
 //spells
 
@@ -235,13 +235,13 @@ Bone Splinters
 Vile Rebirth
 Vampiric Rites
 Undying Evil
+Supernatural Stamina
 
 //black spells 2cc
 Corpse Churn
 Grave Strength
 Ancestral Vengeance
 Eternal Thirst
-Sign in Blood
 Altar's Reap
 
 //black spells 3cc
@@ -273,14 +273,13 @@ Covenant of Blood
 Goblin Gaveleer
 
 //red creatures 2cc
+Goblin Shortcutter
 Falkenrath Exterminator
 Ashmouth Hound
 Mogg Flunkies
-Goblin Skycutter
-Reckless Reveler
 Valley Dasher
-Ember-Eye Wolf
-Bloodrage Brawler
+Firebrand Archer
+Nimble-Blade Khenra
 
 //red creatures 3cc
 Manic Vandal
@@ -290,6 +289,7 @@ Blood Ogre
 Spikeshot Goblin
 Hardened Berserker
 Inner-Flame Igniter
+Thresher Lizard
 
 //red creatures 4cc
 Bloodfray Giant
@@ -318,8 +318,8 @@ Dragon Mantle
 Electrickery
 Inflame
 Outnumber
-Magma Spray
 Incite
+Renegade Tactics
 
 //red spells 2cc
 Searing Blood
@@ -360,6 +360,7 @@ Blood Feud
 
 //green creatures 1cc
 Elvish Mystic
+Frilled Sandwalla
 
 //green creatures 2cc
 Satyr Grovedancer
@@ -376,7 +377,6 @@ Scrounging Bandar
 //green creatures 3cc
 Battering Krasis
 Centaur Courser
-Sacred Wolf
 Netcaster Spider
 Grazing Gladehart
 Sporecap Spider
@@ -393,11 +393,11 @@ Pheres-Band Tromper
 Murasa Ranger
 
 //green creatures 5cc
-Acid Web Spider
 Garruk's Packleader
-Greater Basilisk
 Adaptive Snapjaw
 Indrik Stomphowler
+Nessian Asp
+Ridgescale Tusker
 
 //green creatures xcc
 Vulpine Goliath
@@ -459,13 +459,13 @@ Pilgrim's Eye
 Pierce Strider
 Clockwork Condor
 Stone Golem
-Clockwork Hydra
 Lumengrid Gargoyle
 Hexplate Golem
 
 //equipments
 Cathar's Shield
 Bonesplitter
+Honed Khopesh
 Trusty Machete
 Peregrine Mask
 Viridian Longbow
@@ -489,7 +489,7 @@ Cellar Door
 Razortip Whip
 Moonglove Extract
 Isolation Cell
-Meteorite
+Gnarled Effigy
 
 //colored artifacts
 Gold Myr
@@ -509,7 +509,7 @@ Shipwreck Singer
 Extract from Darkness
 Battlewise Hoplite
 Jelenn Sphinx
-Weapons Trainer
+Honored Crop-Captain
 Gleam of Battle
 Nyx Weaver
 Death Frenzy
