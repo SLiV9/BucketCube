@@ -393,11 +393,11 @@ Pheres-Band Tromper
 Murasa Ranger
 
 //green creatures 5cc
+Greater Basilisk
 Garruk's Packleader
 Adaptive Snapjaw
 Indrik Stomphowler
 Nessian Asp
-Ridgescale Tusker
 
 //green creatures xcc
 Vulpine Goliath
