@@ -1,7 +1,5 @@
-Altered color pie: BWURG. ("Alphabetical" order is still WUBRG.)
 Slight shifted color identities: R favors big creatures, W favors aggression, G favors graveyard, U favors enchantments and B favors disruption.
-Greater alignments: WB, WU, UR, RG, BG.
-Lesser alignments: UB, BR, GW, GU, RW.
+Inverted color pairs: symbiotic color pairs are WB, RW, UR, GU and BG, whereas harmonious color pairs are WU, UB, BR, RG and GW.
 
 
 # Orzhov (WB)
@@ -10,26 +8,31 @@ Lesser alignments: UB, BR, GW, GU, RW.
 Minions
 Lifegain
 
-# Azorius (WU)
-*Strategically enhance your army*
+# Boros (RW)
+*Pure aggression*
 
-Enchantments
+Whenever it attacks
 
 # Izzet (UR)
 *Barrage of powerful spells*
 
 Instants and sorceries
 
-# Gruul (RG)
-*Trample the weak*
+# Simic (GU)
+*Improve your forces*
 
-Monstrosity
-Trample
+Evolve
+Flash
 
 # Golgari (BG)
 *Death leads to growth*
 
 Graveyard matters
+
+# Azorius (WU)
+*Strategically enhance your army*
+
+Enchantments
 
 # Dimir (UB)
 *Manipulate trades in your favor*
@@ -41,21 +44,16 @@ Shrink creatures
 
 Unleash
 
+# Gruul (RG)
+*Trample the weak*
+
+Monstrosity
+Trample
+
 # Selesnya (GW)
 *Strengthen your army*
 
 Vigilance
-
-# Simic (GU)
-*Improve your forces*
-
-Evolve
-Flash
-
-# Boros (RW)
-*Pure aggression*
-
-Whenever it attacks
 
 
 # White
