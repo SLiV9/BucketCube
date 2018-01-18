@@ -447,6 +447,7 @@ Strength of the Pack
 
 //artifact creatures
 Myr Mindservant
+Clockwork Beetle
 Chronomaton
 Bonded Construct
 Field Creeper
@@ -454,7 +455,7 @@ Myr Sire
 Perilous Myr
 Haunted Guardian
 Guardians of Meletis
-Pilgrim's Eye
+Clockwork Condor
 Pierce Strider
 Anvilwrought Raptor
 Stone Golem
@@ -475,7 +476,6 @@ Pennon Blade
 
 //artifacts
 Spellbook
-Elixir of Immortality
 Explosive Apparatus
 Ghoulcaller's Bell
 Cellar Door
