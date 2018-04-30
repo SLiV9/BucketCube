@@ -58,9 +58,9 @@ Dawnfeather Eagle
 Swift Justice
 Demystify
 Sheltering Light
+Charge
 
 //white spells 2cc
-Divine Favor
 Chosen by Heliod
 Nimbus Wings
 Raise the Alarm
@@ -73,12 +73,12 @@ Act of Heroism
 
 //white spells 3cc
 Echoes of the Kin Tree
-Narrow Escape
 Banishing Light
 Make a Stand
 Righteous Charge
 
 //white spells 4cc
+Call the Cavalry
 Builder's Blessing
 Inspired Charge
 
@@ -115,7 +115,7 @@ Trinket Mage
 Triton Fortune Hunter
 Niblis of Dusk
 Scribe of the Mindful
-Zephyr Scribe
+Vodalian Arcanist
 
 //blue creatures 4cc
 Azure Drake
@@ -132,7 +132,6 @@ Shimmerscale Drake
 
 //blue creatures xcc
 Benthic Giant
-Bastion Inventor
 Striped Riverwinder
 
 //spells
@@ -142,6 +141,7 @@ Opt
 Fleeting Distraction
 Aqueous Form
 Curious Obsession
+Rescue
 
 //blue spells 2cc
 Train of Thought
@@ -152,6 +152,7 @@ Ordeal of Thassa
 Anticipate
 Dance of the Skywise
 Tightening Coils
+Blink of an Eye
 
 //blue spells 3cc
 Divination
@@ -167,7 +168,6 @@ Hieroglyphic Illumination
 
 //blue spells 5cc
 Switcheroo
-Reverse Engineer
 Illusionary Armor
 Drake Umbra
 
@@ -201,6 +201,7 @@ Shambling Ghoul
 Rancid Rats
 Pale Rider of Trostad
 Doomed Dissenter
+Miasmic Mummy
 
 //black creatures 3cc
 Lawless Broker
@@ -220,7 +221,6 @@ Scavenger Drake
 
 //black creatures 5cc
 Morkrut Banshee
-Nested Ghoul
 Scrounger of Souls
 
 //black creatures xcc
@@ -315,12 +315,12 @@ Volcanic Dragon
 
 //red spells 1cc
 Dragon Mantle
+Electrickery
+Shivan Fire
 Spark Jolt
 Inflame
 Outnumber
-Incite
 Renegade Tactics
-Burning Inquiry
 Spark of Creativity
 
 //red spells 2cc
@@ -411,13 +411,13 @@ Archweaver
 //green spells 1cc
 Wreath of Geists
 Prey Upon
+Arbor Armament
 
 //green spells 2cc
-Titanic Growth
+Gift of Growth
 Rampant Growth
 Aggressive Urge
 Swell of Growth
-Mantle of Webs
 
 //green spells 3cc
 Harrow
@@ -447,15 +447,14 @@ Strength of the Pack
 
 //artifact creatures
 Myr Mindservant
-Clockwork Beetle
 Chronomaton
+Sparring Construct
 Bonded Construct
 Field Creeper
 Myr Sire
 Perilous Myr
 Haunted Guardian
 Guardians of Meletis
-Clockwork Condor
 Pierce Strider
 Anvilwrought Raptor
 Stone Golem
@@ -477,6 +476,7 @@ Pennon Blade
 //artifacts
 Spellbook
 Explosive Apparatus
+Bloodtallow Candle
 Ghoulcaller's Bell
 Cellar Door
 Jayemdae Tome
