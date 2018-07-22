@@ -1,4 +1,4 @@
-Slight shifted color identities: R favors big creatures, W favors aggression, G favors graveyard, U favors enchantments and B favors disruption.
+Slight shifted color identities: W favors aggression, R favors big creatures, G favors graveyard, B favors disruption and U favors enchantments.
 Inverted color pairs: symbiotic color pairs are WB, RW, UR, GU and BG, whereas harmonious color pairs are WU, UB, BR, RG and GW.
 
 

@@ -3,10 +3,10 @@
 //creatures
 
 //white creatures 1cc
-Soulmender
 Infantry Veteran
 Yoked Ox
 Elite Vanguard
+Nyxborn Shieldmate
 Hopeful Eidolon
 Cathedral Sanctifier
 Kor Duelist
@@ -14,7 +14,6 @@ Loyal Pegasus
 
 //white creatures 2cc
 Niblis of the Urn
-Nyx-Fleece Ram
 Sungrace Pegasus
 Ajani's Sunstriker
 Ajani's Pridemate
@@ -26,9 +25,9 @@ Ghost Warden
 Unruly Mob
 Sunspear Shikari
 Steadfast Cathar
+Cavalry Drillmaster
 
 //white creatures 3cc
-Territorial Hammerskull
 Attended Knight
 Charging Paladin
 Fiend Hunter
@@ -39,9 +38,10 @@ Gavony Ironwright
 Icatian Crier
 
 //white creatures 4cc
-Goldnight Commander
+Gallant Cavalry
 Abzan Battle Priest
 Glimmerpoint Stag
+Star-Crowned Stag
 
 //white creatures 5cc
 Serra Angel
@@ -105,17 +105,15 @@ Coralhelm Guide
 Alluring Siren
 Jeskai Elder
 Jeskai Sage
+Vodalian Arcanist
 
 //blue creatures 3cc
 Exultant Cultist
-Scroll Thief
 Simic Fluxmage
 Aeronaut Tinkerer
 Trinket Mage
 Triton Fortune Hunter
 Niblis of Dusk
-Scribe of the Mindful
-Vodalian Arcanist
 
 //blue creatures 4cc
 Azure Drake
@@ -123,6 +121,7 @@ Phantasmal Dragon
 Thassa's Emissary
 Mistfire Adept
 Naga Oracle
+Aerie Worshippers
 
 //blue creatures 5cc
 Sphinx's Disciple
@@ -131,6 +130,7 @@ Windrider Patrol
 Shimmerscale Drake
 
 //blue creatures xcc
+Horizon Scholar
 Benthic Giant
 Striped Riverwinder
 
@@ -141,7 +141,6 @@ Opt
 Fleeting Distraction
 Aqueous Form
 Curious Obsession
-Rescue
 
 //blue spells 2cc
 Train of Thought
@@ -153,12 +152,12 @@ Anticipate
 Dance of the Skywise
 Tightening Coils
 Blink of an Eye
+Riddleform
 
 //blue spells 3cc
 Divination
 Call to Mind
 Infiltrator's Magemark
-Hour of Need
 
 //blue spells 4cc
 Foresee
@@ -172,6 +171,7 @@ Illusionary Armor
 Drake Umbra
 
 //blue spells xcc
+Rise of Eagles
 Breakthrough
 Interpret the Signs
 Volition Reins
@@ -186,7 +186,6 @@ Drainpipe Vermin
 Smolder Initiate
 Typhoid Rats
 Deathgreeter
-Vampire Lacerator
 Sanitarium Skeleton
 Fourth Bridge Prowler
 Festering Mummy
@@ -215,13 +214,14 @@ Crow of Dark Tidings
 Smoldering Butcher
 Gravedigger
 Deathgaze Cockatrice
+Skeleton Archer
 Skinrender
-Vampire Outcasts
 Scavenger Drake
 
 //black creatures 5cc
 Morkrut Banshee
 Scrounger of Souls
+Ambitious Aetherborn
 
 //black creatures xcc
 
@@ -241,7 +241,6 @@ Corpse Churn
 Grave Strength
 Ancestral Vengeance
 Eternal Thirst
-Altar's Reap
 
 //black spells 3cc
 Dead Reckoning
@@ -254,6 +253,7 @@ Splendid Agony
 Moan of the Unhallowed
 Dutiful Return
 Parasitic Implant
+Blood Divination
 
 //black spells 5cc
 Unmake the Graves
@@ -281,16 +281,16 @@ Firebrand Archer
 Nimble-Blade Khenra
 
 //red creatures 3cc
-Manic Vandal
 Fiery Hellhound
 Two-Headed Cerberus
-Blood Ogre
+Thresher Lizard
 Spikeshot Goblin
 Hardened Berserker
 Inner-Flame Igniter
 Qal Sisma Behemoth
 
 //red creatures 4cc
+Keldon Raider
 Bloodfray Giant
 Furnace Whelp
 Scrapyard Mongrel
@@ -301,10 +301,10 @@ Bloodfire Enforcers
 
 //red creatures 5cc
 Charging Monstrosaur
-Lightning Shrieker
 Wildfire Cerberus
 Stoneshock Giant
 Charging Tuskodon
+Storm Fleet Arsonist
 
 //red creatures xcc
 Markov Warlord
@@ -410,7 +410,6 @@ Archweaver
 
 //green spells 1cc
 Wreath of Geists
-Prey Upon
 Arbor Armament
 
 //green spells 2cc
@@ -418,6 +417,7 @@ Gift of Growth
 Rampant Growth
 Aggressive Urge
 Swell of Growth
+Talons of Wildwood
 
 //green spells 3cc
 Harrow
@@ -446,7 +446,6 @@ Strength of the Pack
 //Colorless
 
 //artifact creatures
-Myr Mindservant
 Chronomaton
 Sparring Construct
 Bonded Construct
@@ -454,6 +453,7 @@ Field Creeper
 Myr Sire
 Perilous Myr
 Haunted Guardian
+Hovermyr
 Guardians of Meletis
 Pierce Strider
 Anvilwrought Raptor
@@ -474,12 +474,12 @@ Heart-Piercer Bow
 Pennon Blade
 
 //artifacts
-Spellbook
 Explosive Apparatus
 Bloodtallow Candle
 Ghoulcaller's Bell
 Cellar Door
 Jayemdae Tome
+Briber's Purse
 
 //multicolors
 Khenra Charioteer
