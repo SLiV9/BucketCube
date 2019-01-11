@@ -1,73 +1,101 @@
-I want to rethink my archetypes and buildarounds; I feel like blue now has a ton of buildaround jank, whereas red just has pure value. Maybe I can assign one value archetype and one buildaround archetype to each color pair, as well as to each color itself? Maybe to colorless as well, or color-artifact pairs?
-
 # Cube-wide
 
 +1/+1 counters
-Flyers **move to colors?**
-Removal / Ping
 Creature tokens
 
 # RG
 
-Trample **setup?** *not an archetype*
-Damage when attacking **payoff?**
-*power matters? ferocious*
-*ramp + mana sinks?*
+Value: Manasinks
+Buildaround: Power matters
 
 # BR
 
-Unleash **not in B** *not a lot in R either*
-Sacrifice creatures *replace with different buildaround?*
-*hellbent?*
+Value: Removal
+Buildaround: Sacrifice creatures
 
 # GW
 
-+1/+1 counters **overlaps cubewide**
-Sturdy creatures
-*add a different buildaround?*
-*convoke? already in black*
+Value: Sturdy creatures
+Buildaround: Convoke with survivors
 
 # UB
 
-Creature Control **support?**
-Fill both graveyards **double** **no support**
-*add mill as a buildaround?*
+Value: Creature Control
+Buildaround: Mill
 
 # WU
 
-Heroic & Bestow
-Vigilance **not enough** **not in U?**
-Flash **huh?** **not in W**
-*did I make flyers not an archetype on purpose?*
+Value: Flyers
+Buildaround: Heroic & Bestow
 
 # RW
 
-Going wide **double** **not in R**
-Aggro
-*equipments matter?*
+Value: Aggro
+Buildaround: Equipments matter
 
 # BG
 
-Fill the graveyard **payoffs?**
-Symmetric death **needs more** *Drown in Sorrow, Famine*
+Value: Fill the graveyard
+Buildaround: Only the strongest survive
 
 # GU
 
-Evolve, +1/+1 counters matter **overlaps cubewide**
-Flash **why?**
-*pure value*
-*green creatures can't be blocked archetype?*
-*what's the buildaround? +1/+1 counters?*
+Value: Big green flyers
+Buildaround: +1/+1 counters matter
 
 # WB
 
-Going wide / Death triggers
-Lifegain **payoffs?** *Ajani's Pridemate*
+Value: Lifegain
+Buildaround: Death triggers
 
 # UR
 
-Instants and Sorceries
-Scrying into bombs
+Value: Scrying into bombs
+Buildaround: Instants and Sorceries
+
+# W
+
+Creature disabling
+Enchantment destruction
+Temporary exile
+Saving creatures
+
+# U
+
+Phantasmal
+Scry / Looting
+Card draw
+Unblockable
+Artifacts matter
+Hexproof
+Cycling
+Dispersal
+
+# B
+
+Discard
+Recursion / Persistence
+Deathtouch
+Removal
+
+# R
+
+Firebreathing
+Doublestrike
+Rummaging
+Power matters
+Raw damage
+Gain control
+
+# G
+
+Ramp
+Artifact destruction
+Enchantment destruction
+Flash blockers
+Manasinks
+Pump spells
+Toughness matters
 
 # Artifacts
 
@@ -76,6 +104,6 @@ Sturdy creatures
 Flyers
 Attacking
 Graveyard filling
-Mill **hmm?**
-*No support for ramp except attacking*
-Creature disabling **which color(s)?**
+Mill
+Ramp
+Creature disabling
