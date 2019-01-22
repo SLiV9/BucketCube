@@ -46,7 +46,7 @@ Buildaround: +1/+1 counters matter
 # WB
 
 Value: Lifegain
-Buildaround: Death triggers
+Buildaround: Go wide
 
 # UR
 
@@ -77,13 +77,13 @@ Discard
 Recursion / Persistence
 Deathtouch
 Removal
+Death triggers
 
 # R
 
 Firebreathing
 Doublestrike
 Rummaging
-Power matters
 Raw damage
 Gain control
 
@@ -93,7 +93,6 @@ Ramp
 Artifact destruction
 Enchantment destruction
 Flash blockers
-Manasinks
 Pump spells
 Toughness matters
 
