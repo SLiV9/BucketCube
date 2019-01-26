@@ -65,6 +65,7 @@ Here f denotes flying or unblockable, + denotes a minor upside or a good non-fly
 
 3/3 + in C
 2/1 f+ in C
+2/2 f in C
 
 3/3 ++ in W and B
 2/2 2/2 in W and B
@@ -73,7 +74,7 @@ Here f denotes flying or unblockable, + denotes a minor upside or a good non-fly
 5/5 f-- in U
 4/2 + in B
 2/2 ++ in B
-2/2 f+ in B and R
+2/2 f+ in B
 4/2 ++ in R
 4/3 + in R
 5/2 + in R

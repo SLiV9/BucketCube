@@ -16,7 +16,7 @@ Buildaround: Sacrifice creatures
 # GW
 
 Value: Sturdy creatures
-Buildaround: Convoke with survivors
+Buildaround: Outlast and Convoke
 
 # UB
 
@@ -62,19 +62,16 @@ Saving creatures
 
 # U
 
-Phantasmal
-Scry / Looting
+Scry / Looting / Cycling
 Card draw
 Unblockable
-Artifacts matter
 Hexproof
-Cycling
 Dispersal
 
 # B
 
 Discard
-Recursion / Persistence
+Recursion / Undying
 Deathtouch
 Removal
 Death triggers
@@ -85,14 +82,13 @@ Firebreathing
 Doublestrike
 Rummaging
 Raw damage
-Gain control
+Steal control
 
 # G
 
 Ramp
 Artifact destruction
 Enchantment destruction
-Flash blockers
 Pump spells
 Toughness matters
 
