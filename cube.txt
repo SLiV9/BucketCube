@@ -31,6 +31,7 @@ Ironclad Slayer
 Observant Alseid
 Dromoka Captain
 Gavony Ironwright
+Auramancer
 Icatian Crier
 Glint-Sleeve Artisan
 Tethmos High Priest
@@ -54,7 +55,6 @@ Watchful Giant
 
 //white spells 1cc
 Swift Justice
-Demystify
 Arrester's Zeal
 Charge
 
@@ -66,13 +66,13 @@ Gather the Townsfolk
 Brave the Sands
 Ordeal of Heliod
 Act of Heroism
+Echoes of the Kin Tree
 
 //white spells 3cc
-Divine Verdict
-Echoes of the Kin Tree
 Banishing Light
 
 //white spells 4cc
+Divine Verdict
 Call the Cavalry
 Builder's Blessing
 Inspired Charge
@@ -472,7 +472,7 @@ Jayemdae Tome
 Tyrant's Machine
 
 //multicolors
-Khenra Charioteer
+Draconic Disciple
 Savage Smash
 Savage Ventmaw
 Hellhole Flailer
