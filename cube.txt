@@ -466,10 +466,10 @@ Conjurer's Bauble
 Explosive Apparatus
 Bloodtallow Candle
 Ghoulcaller's Bell
+Tyrant's Machine
 Cellar Door
 Whirlermaker
 Jayemdae Tome
-Tyrant's Machine
 
 //multicolors
 Draconic Disciple
