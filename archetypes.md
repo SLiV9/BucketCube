@@ -56,7 +56,6 @@ Buildaround: Instants and Sorceries
 # W
 
 Creature disabling
-Enchantment destruction
 Temporary exile
 Saving creatures
 
