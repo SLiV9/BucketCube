@@ -12,6 +12,7 @@ Loyal Pegasus
 
 //white creatures 2cc
 Niblis of the Urn
+Stormfront Pegasus
 Sungrace Pegasus
 Ajani's Sunstriker
 Ajani's Pridemate
@@ -22,17 +23,17 @@ Sunspear Shikari
 Steadfast Cathar
 Cavalry Drillmaster
 Phalanx Leader
+Kor Outfitter
 
 //white creatures 3cc
 Attended Knight
-Tenth District Veteran
+Haazda Officer
 Fiend Hunter
 Ironclad Slayer
 Observant Alseid
 Dromoka Captain
 Gavony Ironwright
 Auramancer
-Icatian Crier
 Glint-Sleeve Artisan
 Tethmos High Priest
 
@@ -40,6 +41,7 @@ Tethmos High Priest
 Gallant Cavalry
 Abzan Battle Priest
 Star-Crowned Stag
+Glimmerpoint Stag
 Ledev Guardian
 
 //white creatures 5cc
@@ -61,11 +63,9 @@ Charge
 //white spells 2cc
 Chosen by Heliod
 Nimbus Wings
-Eland Umbra
 Gather the Townsfolk
 Brave the Sands
 Ordeal of Heliod
-Act of Heroism
 Echoes of the Kin Tree
 
 //white spells 3cc
@@ -96,7 +96,9 @@ Azure Mage
 Merfolk Looter
 Flitterstep Eidolon
 Omenspeaker
+Sage's Row Savant
 Jeskai Elder
+Vedalken Mesmerist
 Crosstown Courier
 Shriekgeist
 Meletis Astronomer
@@ -110,6 +112,8 @@ Trinket Mage
 Triton Fortune Hunter
 Nyxborn Triton
 Aviation Pioneer
+Niblis of Dusk
+Skywinder Drake
 
 //blue creatures 4cc
 Azure Drake
@@ -137,8 +141,6 @@ Opt
 Fleeting Distraction
 
 //blue spells 2cc
-Train of Thought
-Turn to Frog
 Ordeal of Thassa
 Anticipate
 Dance of the Skywise
@@ -148,7 +150,6 @@ Blink of an Eye
 //blue spells 3cc
 Divination
 Voyage's End
-Call to Mind
 Infiltrator's Magemark
 Psychic Corrosion
 
@@ -158,7 +159,6 @@ Dampening Pulse
 Fortune's Favor
 
 //blue spells 5cc
-Totally Lost
 Switcheroo
 Drake Umbra
 
@@ -176,7 +176,6 @@ Floodwaters
 Tormented Soul
 Typhoid Rats
 Deathgreeter
-Sanitarium Skeleton
 Fourth Bridge Prowler
 Festering Mummy
 
@@ -190,12 +189,15 @@ Pale Rider of Trostad
 Doomed Dissenter
 Miasmic Mummy
 Returned Reveler
+Dusk Legion Zealot
 
 //black creatures 3cc
+Slate Street Ruffian
 Lawless Broker
 Giant Scorpion
 Wakedancer
 Markov Patrician
+Veiled Shade
 Baleful Ammit
 Weaponcraft Enthusiast
 
@@ -216,15 +218,14 @@ Ambitious Aetherborn
 
 //black creatures xcc
 Maalfeld Twins
+Tithebearer Giant
 
 //spells
 
 //black spells 1cc
 Disentomb
 Bone Splinters
-Vampiric Rites
 Undying Evil
-Coat with Venom
 
 //black spells 2cc
 Corpse Churn
@@ -232,13 +233,12 @@ Grave Strength
 Eternal Thirst
 
 //black spells 3cc
+Soul Salvage
 Mephitic Vapors
-Drown in Sorrow
 Gravepurge
 
 //black spells 4cc
 Moan of the Unhallowed
-Dutiful Return
 Strangling Spores
 Parasitic Implant
 Blood Divination
@@ -262,6 +262,9 @@ Goblin Gaveleer
 
 //red creatures 2cc
 Feral Maaka
+Valley Dasher
+Goblin Shortcutter
+Goblin Instigator
 Gore-House Chainwalker
 Ashmouth Hound
 Mogg Flunkies
@@ -276,6 +279,7 @@ Spikeshot Goblin
 Hardened Berserker
 Inner-Flame Igniter
 Qal Sisma Behemoth
+Arc Runner
 
 //red creatures 4cc
 Keldon Raider
@@ -303,10 +307,7 @@ Volcanic Dragon
 
 //red spells 1cc
 Dragon Mantle
-Electrickery
 Shivan Fire
-Inflame
-Outnumber
 Renegade Tactics
 
 //red spells 2cc
@@ -320,7 +321,6 @@ Nightbird's Clutches
 Sparkmage's Gambit
 
 //red spells 3cc
-Panic Attack
 Act of Treason
 Arc Lightning
 
@@ -347,6 +347,7 @@ Elvish Mystic
 Servant of the Scale
 
 //green creatures 2cc
+Runeclaw Bear
 Golden Hind
 Satyr Grovedancer
 Swordwise Centaur
@@ -356,14 +357,17 @@ Boneyard Wurm
 Baloth Pup
 Drudge Beetle
 Territorial Boar
+Corrosive Ooze
 
 //green creatures 3cc
 Battering Krasis
 Centaur Courser
+Sylvan Brushstrider
 Crocanura
 Sporecap Spider
 Reclamation Sage
 Tuskguard Captain
+Krosan Druid
 
 //green creatures 4cc
 Spiked Baloth
@@ -398,22 +402,18 @@ Arbor Armament
 
 //green spells 2cc
 Gift of Growth
-Talons of Wildwood
 
 //green spells 3cc
-Roar of Challenge
 Elephant Guide
 Clear Shot
 
 //green spells 4cc
 Sudden Reclamation
-Lifecrafter's Gift
 Monstrify
 Return to the Earth
 
 //green spells 5cc
 Bestial Menace
-Incremental Growth
 Sight of the Scalelords
 Monstrous Onslaught
 Savage Conception
@@ -501,7 +501,7 @@ Harsh Sustenance
 Campaign of Vengeance
 Goblin Electromancer
 Enigma Drake
-Blast of Genius
+Izzet Chronarch
 
 //lands
 Evolving Wilds
