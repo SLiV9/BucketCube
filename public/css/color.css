@@ -1,0 +1,111 @@
+/*
+
+Color reference chart
+
+#ffffff;/*white
+#f7efdf;/*shade
+#8c7b67;/*gray
+#272429;/*black
+#855b32;/*link
+#131719;/*hover
+#512f33;/*dark
+#512f33;/*accent
+
+The comments allow for find-and-replacing colors throughout this stylesheet.
+
+*/
+
+/* Base */
+
+body {
+	background-color: #f7efdf;/*shade*/
+}
+
+#main_wrapper {
+	background-color: #ffffff;/*white*/
+}
+
+strong {
+	color: #272429;/*black*/
+}
+
+h1 {
+	color: #512f33;/*dark*/
+}
+
+h2 {
+	color: #512f33;/*dark*/
+}
+
+mark {
+	background-color: transparent;
+	color: #512f33;/*accent*/
+}
+
+a {
+	text-decoration: none;
+	color: #855b32;/*link*/
+}
+
+a:hover,
+a.selected {
+	text-decoration: none;
+	color: #8c7b67;/*gray*/
+}
+
+/* Forms */
+
+button,
+input[type=submit] {
+	background-color: #855b32;/*link*/
+	color: #ffffff;/*white*/
+}
+
+button:hover,
+input[type=submit]:hover {
+	background-color: #131719;/*hover*/
+}
+
+/* Footer */
+
+.footer .text {
+	color: #8c7b67;/*gray*/
+}
+
+.footer a {
+	text-decoration: none;
+	color: #8c7b67;/*gray*/
+}
+
+.footer a:hover,
+.footer a.selected {
+	text-decoration: none;
+	color: #2096b3;/*main*/
+}
+
+/* Mana symbols */
+
+.ms {
+	color: #070409;
+	background-color: #c7c7c7;
+}
+
+.ms.ms-w {
+	background-color: #f8e7b9;
+}
+
+.ms.ms-u {
+	background-color: #b3ceea;
+}
+
+.ms.ms-b {
+	background-color: #a69f9d;
+}
+
+.ms.ms-r {
+	background-color: #eb9f82;
+}
+
+.ms.ms-g {
+	background-color: #c4d3ca;
+}

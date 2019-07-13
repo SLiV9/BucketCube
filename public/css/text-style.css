@@ -1,0 +1,48 @@
+/* Base */
+
+h1 {
+	font-family: 'Literata', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Literata', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+q {
+	font-family: 'Montserrat', sans-serif;
+	font-style: italic;
+}
+
+#main_wrapper {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
+
+/* Forms */
+
+textarea {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+input[type=text] {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+button, input[type=submit] {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
+
+/* Footer */
+
+.footer {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
