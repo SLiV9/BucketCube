@@ -64,7 +64,7 @@
 			Wide Midrange
 		</h2>
 		<p>
-			This is nice.
+			Start out defensively with sturdy creatures and amass an army of creature tokens, until you can attack without fear of repurcussions.
 		</p>
 	</td>
 	<td>
@@ -73,7 +73,7 @@
 			Control
 		</h2>
 		<p>
-			This is nice.
+			Use kill spells, creature bounces and discard effects to prevent your opponent from having any creatures on the battlefield long enough for you to play your late game bombs.
 		</p>
 	</td>
 	<td>
@@ -82,7 +82,7 @@
 			Flyers
 		</h2>
 		<p>
-			This is nice.
+			Take to the skies and outrace your opponent.
 		</p>
 	</td>
 </tr>
@@ -120,13 +120,13 @@
 			Mill
 		</h2>
 		<p>
-			This is nice.
+			Force your opponent to put cards from their library into their graveyard. Once their out of cards, they start taking fatigue damage while you keep drawing playables.
 		</p>
 	</td>
 	<td>
 		<img src="https://img.scryfall.com/cards/art_crop/front/4/c/4c929a57-2c23-4bbf-b265-666630a4fde8.jpg?1562817817" alt="">
 		<h2><i class="ms ms-w"></i><i class="ms ms-u"></i>
-			Heroic matters
+			Heroic
 		</h2>
 		<p>
 			Use enchantments to build stronger creatures. Heroic creatures grant much needed card advantage and Bestow creatures ensure a good mix of enchantments and enchantees.
@@ -140,7 +140,7 @@
 			Aggro
 		</h2>
 		<p>
-			This is nice.
+			Play the best low-cost creatures and keep attacking until your opponent is low enough for your burn spells to finish the job.
 		</p>
 	</td>
 	<td>
@@ -155,28 +155,28 @@
 	<td>
 		<img src="https://img.scryfall.com/cards/art_crop/front/a/a/aae50a9a-1589-43fe-87a6-7b2c96745392.jpg?1562439668" alt="">
 		<h2><i class="ms ms-g"></i><i class="ms ms-u"></i>
-			Value Ramp (?)
+			Value Ramp
 		</h2>
 		<p>
-			This is nice.
+			Blue card draw and cycling effects allow you to hit your land drops reliably and get your green bombs out sooner.
 		</p>
 	</td>
 	<td>
 		<img src="https://img.scryfall.com/cards/art_crop/front/c/2/c284997a-cfc3-4ffc-bc25-00c130fb1eb0.jpg?1562748649" alt="">
 		<h2><i class="ms ms-w"></i><i class="ms ms-b"></i>
-			??? (Lifegain Tempo)
+			Lifegain Tempo
 		</h2>
 		<p>
-			This is nice.
+			Use lifegain to keep yourself at a higher life total than your opponent, which allows you to keep attacking without worrying about leaving behind that many blockers.
 		</p>
 	</td>
 	<td>
 		<img src="https://img.scryfall.com/cards/art_crop/front/0/a/0ae987da-e4b5-4b82-843c-6aaa87262fc8.jpg?1538880243" alt="">
 		<h2><i class="ms ms-u"></i><i class="ms ms-r"></i>
-			Value Tempo (?)
+			Value Tempo
 		</h2>
 		<p>
-			This is nice.
+			Combine cost effective removal with card draw to be able to keep the battlefield clear of your opponent's threats and allow your creatures to attack at will.
 		</p>
 	</td>
 </tr>
@@ -187,7 +187,7 @@
 			Equipment matters
 		</h2>
 		<p>
-			This is nice.
+			Certain creatures become stronger when equipped or provide a buff to all of your creatures when you have an equipment on the battlefield.
 		</p>
 	</td>
 	<td>
@@ -196,16 +196,16 @@
 			Graveyard matters
 		</h2>
 		<p>
-			This is nice.
+			Trade aggressively in the early game, as your spells become more powerful the more creatures are in your graveyard. Spells in your graveyard with Retrace or Scavenge provide some extra oomph in the late game.
 		</p>
 	</td>
 	<td>
 		<img src="https://img.scryfall.com/cards/art_crop/front/1/e/1efbf7be-bc11-4285-a37d-83790b292b3a.jpg?1562839818" alt="">
 		<h2><i class="ms ms-g"></i><i class="ms ms-u"></i>
-			Evasive fatty (?)
+			Evasive fatty
 		</h2>
 		<p>
-			This is nice.
+			Make your flying creatures massive or give your massive creatures flying. Either way works.
 		</p>
 	</td>
 	<td>
@@ -214,13 +214,13 @@
 			Weenies
 		</h2>
 		<p>
-			This is nice.
+			Fill your board with disposable minions and trade them away for more valuable effects. Certain cards give incremental benefits every time a creature dies. Once you reach a critical mass you can swing with everyone because your opponent can only block so many 1/1s at a time.
 		</p>
 	</td>
 	<td>
 		<img src="https://img.scryfall.com/cards/art_crop/front/6/e/6e0def77-3528-40fb-a6b2-c3d1e31ade65.jpg?1562302676" alt="">
 		<h2><i class="ms ms-u"></i><i class="ms ms-r"></i>
-			Prowess matters
+			Spells matter
 		</h2>
 		<p>
 			Keep casting instants and sorceries to buff your Prowess creatures and keep your card draw engine alive.
