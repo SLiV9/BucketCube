@@ -12,9 +12,8 @@ Loyal Pegasus
 
 //white creatures 2cc
 Niblis of the Urn
-Stormfront Pegasus
 Sungrace Pegasus
-Ajani's Sunstriker
+Bishop's Soldier
 Ajani's Pridemate
 Oreskos Swiftclaw
 Blinding Mage
@@ -22,20 +21,21 @@ Benalish Cavalry
 Sunspear Shikari
 Steadfast Cathar
 Cavalry Drillmaster
+Lightwalker
 Phalanx Leader
 Kor Outfitter
 
 //white creatures 3cc
 Attended Knight
 Haazda Officer
+Makeshift Battalion
 Fiend Hunter
 Ironclad Slayer
 Observant Alseid
 Dromoka Captain
-Gavony Ironwright
-Auramancer
 Glint-Sleeve Artisan
 Tethmos High Priest
+Graceblade Artisan
 
 //white creatures 4cc
 Gallant Cavalry
@@ -69,7 +69,7 @@ Ordeal of Heliod
 Echoes of the Kin Tree
 
 //white spells 3cc
-Banishing Light
+Borrowed Grace
 
 //white spells 4cc
 Divine Verdict
@@ -92,71 +92,71 @@ Sage of Epityr
 Cloudfin Raptor
 
 //blue creatures 2cc
+Vaporkin
 Azure Mage
 Merfolk Looter
 Flitterstep Eidolon
 Omenspeaker
-Sage's Row Savant
+Elusive Spellfist
 Jeskai Elder
-Vedalken Mesmerist
 Crosstown Courier
 Shriekgeist
-Meletis Astronomer
+Moat Piranhas
 
 //blue creatures 3cc
 Coral Commando
+Frost Lynx
 Exultant Cultist
 Simic Fluxmage
+Cloudkin Seer
 Aeronaut Tinkerer
 Trinket Mage
 Triton Fortune Hunter
 Nyxborn Triton
 Aviation Pioneer
 Niblis of Dusk
-Skywinder Drake
 
 //blue creatures 4cc
 Azure Drake
 Thassa's Emissary
 Mistfire Adept
-Naga Oracle
+Octoprophet
 Aerie Worshippers
 Whirler Rogue
 
 //blue creatures 5cc
-Humongulus
-Sphinx's Disciple
-Windrider Patrol
+Air Elemental
+Chillbringer
 Shimmerscale Drake
 
 //blue creatures xcc
 Horizon Scholar
-Benthic Giant
 Striped Riverwinder
+Scholar of the Ages
 
 //spells
 
 //blue spells 1cc
 Opt
-Fleeting Distraction
 
 //blue spells 2cc
 Ordeal of Thassa
 Anticipate
-Dance of the Skywise
 Tightening Coils
 Blink of an Eye
+Voyage's End
 
 //blue spells 3cc
 Divination
-Voyage's End
-Infiltrator's Magemark
+Stealth Mission
 Psychic Corrosion
+Ojutai's Breath
 
 //blue spells 4cc
 Foresee
 Dampening Pulse
 Fortune's Favor
+Taigam's Strike
 
 //blue spells 5cc
 Switcheroo
@@ -173,7 +173,6 @@ Floodwaters
 //creatures
 
 //black creatures 1cc
-Tormented Soul
 Typhoid Rats
 Deathgreeter
 Fourth Bridge Prowler
@@ -184,15 +183,14 @@ Walking Corpse
 Child of Night
 Daggerdrome Imp
 Ravenous Rats
-Sickle Ripper
-Pale Rider of Trostad
 Doomed Dissenter
 Miasmic Mummy
+Dune Beetle
 Returned Reveler
+Qarsi Sadist
 Dusk Legion Zealot
 
 //black creatures 3cc
-Slate Street Ruffian
 Lawless Broker
 Giant Scorpion
 Wakedancer
@@ -202,19 +200,19 @@ Baleful Ammit
 Weaponcraft Enthusiast
 
 //black creatures 4cc
-Smoldering Butcher
 Gravedigger
 Falkenrath Noble
 Skeleton Archer
 Skinrender
 Scavenger Drake
-Undercity Scavenger
+Vulturous Aven
 Returned Centaur
 
 //black creatures 5cc
 Catacomb Crocodile
 Scrounger of Souls
 Ambitious Aetherborn
+Epicure of Blood
 
 //black creatures xcc
 Maalfeld Twins
@@ -231,6 +229,7 @@ Undying Evil
 Corpse Churn
 Grave Strength
 Eternal Thirst
+Cast into Darkness
 
 //black spells 3cc
 Soul Salvage
@@ -239,6 +238,7 @@ Gravepurge
 
 //black spells 4cc
 Moan of the Unhallowed
+Agonizing Syphon
 Strangling Spores
 Parasitic Implant
 Blood Divination
@@ -258,6 +258,7 @@ Public Execution
 //creatures
 
 //red creatures 1cc
+Goblin Motivator
 Goblin Gaveleer
 
 //red creatures 2cc
@@ -308,7 +309,6 @@ Volcanic Dragon
 //red spells 1cc
 Dragon Mantle
 Shivan Fire
-Renegade Tactics
 
 //red spells 2cc
 Lightning Strike
@@ -319,19 +319,19 @@ Frenzied Rage
 Temur Battle Rage
 Nightbird's Clutches
 Sparkmage's Gambit
+Dragon Fodder
 
 //red spells 3cc
 Act of Treason
 Arc Lightning
 
 //red spells 4cc
-Pyromancer's Assault
 Blood Mist
 
 //red spells 5cc
-Riddle of Lightning
 Aggravate
 Flurry of Horns
+Press into Service
 
 //red spells xcc
 Might Makes Right
@@ -345,10 +345,12 @@ Rolling Thunder
 //green creatures 1cc
 Elvish Mystic
 Servant of the Scale
+Copperhorn Scout
 
 //green creatures 2cc
 Runeclaw Bear
 Golden Hind
+Leafkin Druid
 Satyr Grovedancer
 Swordwise Centaur
 Voyaging Satyr
@@ -356,8 +358,6 @@ Satyr Wayfinder
 Boneyard Wurm
 Baloth Pup
 Drudge Beetle
-Territorial Boar
-Corrosive Ooze
 
 //green creatures 3cc
 Battering Krasis
@@ -370,7 +370,6 @@ Tuskguard Captain
 Krosan Druid
 
 //green creatures 4cc
-Spiked Baloth
 Rumbling Baloth
 Wildheart Invoker
 Longshot Squad
@@ -384,6 +383,7 @@ Garruk's Packleader
 Adaptive Snapjaw
 Indrik Stomphowler
 Bitterbow Sharpshooters
+Silverback Shaman
 
 //green creatures xcc
 Vulpine Goliath
@@ -489,19 +489,19 @@ Talon Trooper
 Azorius Knight-Arbiter
 Weapons Trainer
 Ride Down
-Gleam of Battle
+Heroic Reinforcements
 Sluiceway Scorpion
 Death Frenzy
 Baloth Null
 Lorescale Coatl
-Bred for the Hunt
+Skyrider Patrol
 Nimbus Swimmer
 Maw of the Obzedat
 Harsh Sustenance
 Campaign of Vengeance
+Lightning Stormkin
 Goblin Electromancer
 Enigma Drake
-Izzet Chronarch
 
 //lands
 Evolving Wilds
