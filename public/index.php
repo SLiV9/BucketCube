@@ -64,7 +64,7 @@
 			Wide Midrange
 		</h2>
 		<p>
-			Start out defensively with sturdy creatures and amass an army of creature tokens, until you can attack without fear of repurcussions.
+			Start out defensively with sturdy creatures and amass an army of creature tokens, until you can attack without fear of repercussions.
 		</p>
 	</td>
 	<td>
