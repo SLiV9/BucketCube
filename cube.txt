@@ -45,7 +45,6 @@ Glimmerpoint Stag
 Ledev Guardian
 
 //white creatures 5cc
-Serra Angel
 Expedition Raptor
 Elite Scaleguard
 Dawnfeather Eagle
@@ -59,6 +58,7 @@ Watchful Giant
 Swift Justice
 Arrester's Zeal
 Charge
+Outflank
 
 //white spells 2cc
 Chosen by Heliod
@@ -174,9 +174,9 @@ Floodwaters
 
 //black creatures 1cc
 Typhoid Rats
-Deathgreeter
 Fourth Bridge Prowler
 Festering Mummy
+Eye Collector
 
 //black creatures 2cc
 Walking Corpse
@@ -274,7 +274,7 @@ Nimble-Blade Khenra
 
 //red creatures 3cc
 Fiery Hellhound
-Two-Headed Cerberus
+Raging Redcap
 Thresher Lizard
 Spikeshot Goblin
 Hardened Berserker
@@ -345,7 +345,6 @@ Rolling Thunder
 //green creatures 1cc
 Elvish Mystic
 Servant of the Scale
-Copperhorn Scout
 
 //green creatures 2cc
 Runeclaw Bear
@@ -405,6 +404,7 @@ Gift of Growth
 
 //green spells 3cc
 Elephant Guide
+Kenrith's Transformation
 Clear Shot
 
 //green spells 4cc
@@ -469,7 +469,7 @@ Ghoulcaller's Bell
 Tyrant's Machine
 Cellar Door
 Whirlermaker
-Jayemdae Tome
+Heraldic Banner
 
 //multicolors
 Draconic Disciple
