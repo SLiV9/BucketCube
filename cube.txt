@@ -76,10 +76,10 @@ Divine Verdict
 Call the Cavalry
 Builder's Blessing
 Inspired Charge
+Commanding Presence
 
 //white spells 5cc
 Mammoth Umbra
-Commander's Authority
 
 //white spells xcc
 
@@ -99,13 +99,14 @@ Flitterstep Eidolon
 Omenspeaker
 Elusive Spellfist
 Jeskai Elder
-Crosstown Courier
+Towering-Wave Mystic
 Shriekgeist
 Moat Piranhas
 
 //blue creatures 3cc
 Coral Commando
 Frost Lynx
+Elite Instructor
 Exultant Cultist
 Simic Fluxmage
 Cloudkin Seer
@@ -126,7 +127,6 @@ Whirler Rogue
 
 //blue creatures 5cc
 Air Elemental
-Chillbringer
 Shimmerscale Drake
 
 //blue creatures xcc
@@ -207,6 +207,7 @@ Skinrender
 Scavenger Drake
 Vulturous Aven
 Returned Centaur
+Venomous Hierophant
 
 //black creatures 5cc
 Catacomb Crocodile
@@ -226,7 +227,6 @@ Bone Splinters
 Undying Evil
 
 //black spells 2cc
-Corpse Churn
 Grave Strength
 Eternal Thirst
 Cast into Darkness
@@ -235,10 +235,10 @@ Cast into Darkness
 Soul Salvage
 Mephitic Vapors
 Gravepurge
+Inevitable End
 
 //black spells 4cc
 Moan of the Unhallowed
-Agonizing Syphon
 Strangling Spores
 Parasitic Implant
 Blood Divination
@@ -287,10 +287,10 @@ Keldon Raider
 Bloodfray Giant
 Furnace Whelp
 Scrapyard Mongrel
-Flametongue Kavu
 Ill-Tempered Cyclops
 Bloodfire Enforcers
 Enthralling Victor
+Arena Trickster
 
 //red creatures 5cc
 Rubblebelt Recluse
@@ -307,13 +307,13 @@ Volcanic Dragon
 //spells
 
 //red spells 1cc
+Infuriate
 Dragon Mantle
 Shivan Fire
 
 //red spells 2cc
 Lightning Strike
 Fall of the Hammer
-Arc Trail
 Magma Jet
 Frenzied Rage
 Temur Battle Rage
@@ -326,12 +326,12 @@ Act of Treason
 Arc Lightning
 
 //red spells 4cc
+Portent of Betrayal
 Blood Mist
 
 //red spells 5cc
 Aggravate
 Flurry of Horns
-Press into Service
 
 //red spells xcc
 Might Makes Right
@@ -381,7 +381,6 @@ Mammoth Spider
 Garruk's Packleader
 Adaptive Snapjaw
 Indrik Stomphowler
-Bitterbow Sharpshooters
 Silverback Shaman
 
 //green creatures xcc
@@ -396,11 +395,12 @@ Archweaver
 //spells
 
 //green spells 1cc
-Wreath of Geists
 Arbor Armament
+Prey Upon
 
 //green spells 2cc
-Gift of Growth
+Titanic Growth
+Seek the Wilds
 
 //green spells 3cc
 Elephant Guide
