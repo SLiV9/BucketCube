@@ -4,49 +4,47 @@
 
 //white creatures 1cc
 Yoked Ox
-Elite Vanguard
 Nyxborn Shieldmate
 Hopeful Eidolon
-Kor Duelist
 Loyal Pegasus
 
 //white creatures 2cc
+Alpine Watchdog
 Niblis of the Urn
-Sungrace Pegasus
 Bishop's Soldier
 Ajani's Pridemate
 Oreskos Swiftclaw
-Blinding Mage
-Benalish Cavalry
 Sunspear Shikari
+Ainok Bond-Kin
 Steadfast Cathar
 Cavalry Drillmaster
 Lightwalker
+Akroan Skyguard
 Phalanx Leader
-Kor Outfitter
+Suture Priest
 
 //white creatures 3cc
 Attended Knight
 Haazda Officer
-Makeshift Battalion
 Fiend Hunter
 Ironclad Slayer
 Observant Alseid
 Dromoka Captain
+Devoted Crop-Mate
 Glint-Sleeve Artisan
-Tethmos High Priest
 Graceblade Artisan
+Vryn Wingmare
 
 //white creatures 4cc
-Gallant Cavalry
+Daysquad Marshal
+Falconer Adept
 Abzan Battle Priest
 Star-Crowned Stag
-Glimmerpoint Stag
-Ledev Guardian
+Healer of the Pride
+Basri's Acolyte
 
 //white creatures 5cc
-Expedition Raptor
-Elite Scaleguard
+Valorous Steed
 Dawnfeather Eagle
 
 //white creatures xcc
@@ -57,25 +55,25 @@ Watchful Giant
 //white spells 1cc
 Swift Justice
 Arrester's Zeal
-Charge
 Outflank
 
 //white spells 2cc
-Chosen by Heliod
 Nimbus Wings
-Gather the Townsfolk
 Brave the Sands
 Ordeal of Heliod
 Echoes of the Kin Tree
+Dauntless Unity
+Basri's Solidarity
+Griffin Aerie
 
 //white spells 3cc
 Borrowed Grace
+Narrow Escape
 
 //white spells 4cc
 Divine Verdict
 Call the Cavalry
 Builder's Blessing
-Inspired Charge
 Commanding Presence
 
 //white spells 5cc
@@ -88,8 +86,8 @@ Mammoth Umbra
 //creatures
 
 //blue creatures 1cc
-Sage of Epityr
 Cloudfin Raptor
+Merfolk Windrobber
 
 //blue creatures 2cc
 Vaporkin
@@ -99,13 +97,11 @@ Flitterstep Eidolon
 Omenspeaker
 Elusive Spellfist
 Jeskai Elder
-Towering-Wave Mystic
+Tazeem Roilmage
 Shriekgeist
 Moat Piranhas
 
 //blue creatures 3cc
-Coral Commando
-Frost Lynx
 Elite Instructor
 Exultant Cultist
 Simic Fluxmage
@@ -113,24 +109,26 @@ Cloudkin Seer
 Aeronaut Tinkerer
 Trinket Mage
 Triton Fortune Hunter
+War-Wing Siren
 Nyxborn Triton
 Aviation Pioneer
 Niblis of Dusk
+Warden of Evos Isle
 
 //blue creatures 4cc
-Azure Drake
-Thassa's Emissary
+Tide Skimmer
+Tome Anima
 Mistfire Adept
 Octoprophet
-Aerie Worshippers
 Whirler Rogue
 
 //blue creatures 5cc
+Pondering Mage
 Air Elemental
 Shimmerscale Drake
 
 //blue creatures xcc
-Horizon Scholar
+Tolarian Kraken
 Striped Riverwinder
 Scholar of the Ages
 
@@ -138,35 +136,33 @@ Scholar of the Ages
 
 //blue spells 1cc
 Opt
+Rookie Mistake
 
 //blue spells 2cc
 Ordeal of Thassa
 Anticipate
 Tightening Coils
 Blink of an Eye
-Voyage's End
+Downpour
 
 //blue spells 3cc
-Divination
 Stealth Mission
 Psychic Corrosion
-Ojutai's Breath
+Rousing Read
 
 //blue spells 4cc
 Foresee
 Dampening Pulse
-Fortune's Favor
+Rain of Revelation
 Taigam's Strike
 
 //blue spells 5cc
+Mind Control
 Switcheroo
 Drake Umbra
 
 //blue spells xcc
-Rise of Eagles
-Breakthrough
-Interpret the Signs
-Floodwaters
+Boon of the Wish-Giver
 
 //Black
 
@@ -176,7 +172,6 @@ Floodwaters
 Typhoid Rats
 Fourth Bridge Prowler
 Festering Mummy
-Eye Collector
 
 //black creatures 2cc
 Walking Corpse
@@ -187,7 +182,6 @@ Doomed Dissenter
 Miasmic Mummy
 Dune Beetle
 Returned Reveler
-Qarsi Sadist
 Dusk Legion Zealot
 
 //black creatures 3cc
@@ -198,6 +192,8 @@ Markov Patrician
 Veiled Shade
 Baleful Ammit
 Weaponcraft Enthusiast
+Nightsquad Commando
+Demon's Disciple
 
 //black creatures 4cc
 Gravedigger
@@ -205,24 +201,21 @@ Falkenrath Noble
 Skeleton Archer
 Skinrender
 Scavenger Drake
-Vulturous Aven
-Returned Centaur
+Nimana Skitter-Sneak
+Crypt Lurker
 Venomous Hierophant
 
 //black creatures 5cc
 Catacomb Crocodile
 Scrounger of Souls
-Ambitious Aetherborn
 Epicure of Blood
 
 //black creatures xcc
 Maalfeld Twins
-Tithebearer Giant
 
 //spells
 
 //black spells 1cc
-Disentomb
 Bone Splinters
 Undying Evil
 
@@ -230,10 +223,12 @@ Undying Evil
 Grave Strength
 Eternal Thirst
 Cast into Darkness
+Infernal Scarring
+Subtle Strike
 
 //black spells 3cc
 Soul Salvage
-Mephitic Vapors
+Suffocating Fumes
 Gravepurge
 Inevitable End
 
@@ -250,7 +245,6 @@ Famine
 Homicidal Seclusion
 
 //black spells xcc
-Enslave
 Public Execution
 
 //Red
@@ -258,29 +252,29 @@ Public Execution
 //creatures
 
 //red creatures 1cc
-Goblin Motivator
+Frenzied Goblin
 Goblin Gaveleer
+Fireblade Charger
 
 //red creatures 2cc
 Feral Maaka
 Valley Dasher
-Goblin Shortcutter
-Goblin Instigator
 Gore-House Chainwalker
 Ashmouth Hound
 Mogg Flunkies
 Firebrand Archer
 Nimble-Blade Khenra
+Sigiled Skink
 
 //red creatures 3cc
-Fiery Hellhound
+Frenzied Raptor
+Bolt Hound
 Raging Redcap
-Thresher Lizard
 Spikeshot Goblin
 Hardened Berserker
 Inner-Flame Igniter
-Qal Sisma Behemoth
-Arc Runner
+Spelleater Wolverine
+Priest of Urabrask
 
 //red creatures 4cc
 Keldon Raider
@@ -289,7 +283,6 @@ Furnace Whelp
 Scrapyard Mongrel
 Ill-Tempered Cyclops
 Bloodfire Enforcers
-Enthralling Victor
 Arena Trickster
 
 //red creatures 5cc
@@ -313,8 +306,8 @@ Shivan Fire
 
 //red spells 2cc
 Lightning Strike
+Roil Eruption
 Fall of the Hammer
-Magma Jet
 Frenzied Rage
 Temur Battle Rage
 Nightbird's Clutches
@@ -324,18 +317,17 @@ Dragon Fodder
 //red spells 3cc
 Act of Treason
 Arc Lightning
+Furious Rise
 
 //red spells 4cc
 Portent of Betrayal
 Blood Mist
 
 //red spells 5cc
-Aggravate
 Flurry of Horns
+Clash of Titans
 
 //red spells xcc
-Might Makes Right
-Explosive Impact
 Rolling Thunder
 
 //Green
@@ -344,35 +336,36 @@ Rolling Thunder
 
 //green creatures 1cc
 Elvish Mystic
-Servant of the Scale
 
 //green creatures 2cc
 Runeclaw Bear
 Golden Hind
 Leafkin Druid
 Satyr Grovedancer
-Swordwise Centaur
 Voyaging Satyr
-Satyr Wayfinder
+Sylvan Ranger
 Boneyard Wurm
 Baloth Pup
 Drudge Beetle
+Quirion Dryad
 
 //green creatures 3cc
 Battering Krasis
 Centaur Courser
-Sylvan Brushstrider
 Crocanura
 Sporecap Spider
 Reclamation Sage
-Tuskguard Captain
+Pridemalkin
 Krosan Druid
+Loaming Shaman
 
 //green creatures 4cc
 Rumbling Baloth
+Canopy Stalker
 Wildheart Invoker
 Longshot Squad
 Pheres-Band Tromper
+Sabertooth Mauler
 Korozda Monitor
 Drumhunter
 
@@ -381,16 +374,15 @@ Mammoth Spider
 Garruk's Packleader
 Adaptive Snapjaw
 Indrik Stomphowler
-Silverback Shaman
 
 //green creatures xcc
 Vulpine Goliath
 Pheres-Band Raiders
 Nemesis of Mortals
-Siege Wurm
 Enormous Baloth
 Oakgnarl Warrior
 Archweaver
+Wildwood Scourge
 
 //spells
 
@@ -400,12 +392,12 @@ Prey Upon
 
 //green spells 2cc
 Titanic Growth
-Seek the Wilds
 
 //green spells 3cc
 Elephant Guide
 Kenrith's Transformation
 Clear Shot
+Scale the Heights
 
 //green spells 4cc
 Sudden Reclamation
@@ -413,13 +405,11 @@ Monstrify
 Return to the Earth
 
 //green spells 5cc
-Bestial Menace
 Sight of the Scalelords
 Monstrous Onslaught
 Savage Conception
 
 //green spells xcc
-Grim Flowering
 Strength of the Pack
 Feral Incarnation
 
@@ -428,7 +418,6 @@ Feral Incarnation
 //artifact creatures
 Chronomaton
 Sparring Construct
-Bonded Construct
 Field Creeper
 Myr Sire
 Perilous Myr
@@ -443,9 +432,11 @@ Alloy Myr
 Guardians of Meletis
 Sickleslicer
 Skyscanner
+Shambling Suit
 Pierce Strider
 Anvilwrought Raptor
 Skinwing
+Forgotten Sentinel
 Stone Golem
 Lumengrid Gargoyle
 Meteor Golem
@@ -456,7 +447,6 @@ Honed Khopesh
 Trusty Machete
 Viridian Longbow
 Gorgon's Head
-Witches' Eye
 Armory of Iroas
 Heart-Piercer Bow
 Pennon Blade
@@ -466,10 +456,22 @@ Conjurer's Bauble
 Explosive Apparatus
 Bloodtallow Candle
 Ghoulcaller's Bell
-Tyrant's Machine
+Spare Supplies
 Cellar Door
 Whirlermaker
 Heraldic Banner
+
+//hybrids
+Wild Cantor
+Riot Spikes
+Mercy Killing
+Fate Transfer
+Turn to Mist
+Double Cleave
+Slitherhead
+Snakeform
+Nip Gwyllion
+Blistercoil Weird
 
 //multicolors
 Draconic Disciple
@@ -478,23 +480,23 @@ Savage Ventmaw
 Hellhole Flailer
 Blazing Hellhound
 Macabre Mockery
-Reap What Is Sown
+Good-Fortune Unicorn
 Armored Wolf-Rider
 Worldsoul Colossus
 Shipwreck Singer
-Pilfered Plans
+Siren of the Silent Song
 Extract from Darkness
 Battlewise Hoplite
-Talon Trooper
+Watcher of the Spheres
 Azorius Knight-Arbiter
 Weapons Trainer
 Ride Down
 Heroic Reinforcements
-Sluiceway Scorpion
+Twinblade Assassins
 Death Frenzy
 Baloth Null
 Lorescale Coatl
-Skyrider Patrol
+Primal Empathy
 Nimbus Swimmer
 Maw of the Obzedat
 Harsh Sustenance
