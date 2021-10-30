@@ -34,6 +34,7 @@ Devoted Crop-Mate
 Glint-Sleeve Artisan
 Graceblade Artisan
 Vryn Wingmare
+Canyon Jerboa
 
 //white creatures 4cc
 Daysquad Marshal
@@ -64,11 +65,12 @@ Ordeal of Heliod
 Echoes of the Kin Tree
 Dauntless Unity
 Basri's Solidarity
-Griffin Aerie
+Long Road Home
+Will of the All-Hunter
+Ancestral Blade
 
 //white spells 3cc
 Borrowed Grace
-Narrow Escape
 
 //white spells 4cc
 Divine Verdict
@@ -100,27 +102,28 @@ Jeskai Elder
 Tazeem Roilmage
 Shriekgeist
 Moat Piranhas
+Passwall Adept
 
 //blue creatures 3cc
-Elite Instructor
-Exultant Cultist
+Sea Gate Oracle
 Simic Fluxmage
 Cloudkin Seer
 Aeronaut Tinkerer
 Trinket Mage
 Triton Fortune Hunter
-War-Wing Siren
 Nyxborn Triton
-Aviation Pioneer
 Niblis of Dusk
-Warden of Evos Isle
+Thieving Otter
+Mistblade Shinobi
+Kelpie Guide
 
 //blue creatures 4cc
-Tide Skimmer
 Tome Anima
 Mistfire Adept
 Octoprophet
 Whirler Rogue
+Moonblade Shinobi
+Murmuring Mystic
 
 //blue creatures 5cc
 Pondering Mage
@@ -129,32 +132,33 @@ Shimmerscale Drake
 
 //blue creatures xcc
 Tolarian Kraken
+Cryptic Serpent
 Striped Riverwinder
-Scholar of the Ages
 
 //spells
 
 //blue spells 1cc
 Opt
-Rookie Mistake
+Sigil of Sleep
 
 //blue spells 2cc
 Ordeal of Thassa
-Anticipate
-Tightening Coils
 Blink of an Eye
-Downpour
+Hands of Binding
+Hidden Strings
+Ominous Seas
 
 //blue spells 3cc
 Stealth Mission
 Psychic Corrosion
-Rousing Read
+Phantasmal Form
 
 //blue spells 4cc
 Foresee
 Dampening Pulse
 Rain of Revelation
 Taigam's Strike
+Last Thoughts
 
 //blue spells 5cc
 Mind Control
@@ -172,6 +176,8 @@ Boon of the Wish-Giver
 Typhoid Rats
 Fourth Bridge Prowler
 Festering Mummy
+Tormented Soul
+Banehound
 
 //black creatures 2cc
 Walking Corpse
@@ -188,7 +194,6 @@ Dusk Legion Zealot
 Lawless Broker
 Giant Scorpion
 Wakedancer
-Markov Patrician
 Veiled Shade
 Baleful Ammit
 Weaponcraft Enthusiast
@@ -208,7 +213,7 @@ Venomous Hierophant
 //black creatures 5cc
 Catacomb Crocodile
 Scrounger of Souls
-Epicure of Blood
+Rakshasa Gravecaller
 
 //black creatures xcc
 Maalfeld Twins
@@ -217,13 +222,14 @@ Maalfeld Twins
 
 //black spells 1cc
 Bone Splinters
+Village Rites
 Undying Evil
+Coat with Venom
 
 //black spells 2cc
 Grave Strength
 Eternal Thirst
 Cast into Darkness
-Infernal Scarring
 Subtle Strike
 
 //black spells 3cc
@@ -231,12 +237,12 @@ Soul Salvage
 Suffocating Fumes
 Gravepurge
 Inevitable End
+Bastion of Remembrance
 
 //black spells 4cc
 Moan of the Unhallowed
 Strangling Spores
 Parasitic Implant
-Blood Divination
 Barter in Blood
 
 //black spells 5cc
@@ -258,13 +264,13 @@ Fireblade Charger
 
 //red creatures 2cc
 Feral Maaka
-Valley Dasher
 Gore-House Chainwalker
 Ashmouth Hound
 Mogg Flunkies
 Firebrand Archer
-Nimble-Blade Khenra
+Heartfire Immolator
 Sigiled Skink
+Immersturm Raider
 
 //red creatures 3cc
 Frenzied Raptor
@@ -274,7 +280,7 @@ Spikeshot Goblin
 Hardened Berserker
 Inner-Flame Igniter
 Spelleater Wolverine
-Priest of Urabrask
+Tuskeri Firewalker
 
 //red creatures 4cc
 Keldon Raider
@@ -289,7 +295,8 @@ Arena Trickster
 Rubblebelt Recluse
 Wildfire Cerberus
 Charging Tuskodon
-Storm Fleet Arsonist
+Hagi Mob
+Ardent Dustspeaker
 
 //red creatures xcc
 Chartooth Cougar
@@ -303,6 +310,8 @@ Volcanic Dragon
 Infuriate
 Dragon Mantle
 Shivan Fire
+Footfall Crater
+Tormentor's Helm
 
 //red spells 2cc
 Lightning Strike
@@ -310,17 +319,16 @@ Roil Eruption
 Fall of the Hammer
 Frenzied Rage
 Temur Battle Rage
-Nightbird's Clutches
 Sparkmage's Gambit
 Dragon Fodder
+Goblin Oriflamme
 
 //red spells 3cc
 Act of Treason
 Arc Lightning
-Furious Rise
+Uncaged Fury
 
 //red spells 4cc
-Portent of Betrayal
 Blood Mist
 
 //red spells 5cc
@@ -340,10 +348,9 @@ Elvish Mystic
 //green creatures 2cc
 Runeclaw Bear
 Golden Hind
-Leafkin Druid
+Humble Naturalist
 Satyr Grovedancer
 Voyaging Satyr
-Sylvan Ranger
 Boneyard Wurm
 Baloth Pup
 Drudge Beetle
@@ -352,16 +359,19 @@ Quirion Dryad
 //green creatures 3cc
 Battering Krasis
 Centaur Courser
+Mosscoat Goriak
 Crocanura
 Sporecap Spider
 Reclamation Sage
 Pridemalkin
-Krosan Druid
+Springmane Cervin
 Loaming Shaman
+Horizon Seeker
+Evolution Sage
 
 //green creatures 4cc
 Rumbling Baloth
-Canopy Stalker
+Bellowing Elk
 Wildheart Invoker
 Longshot Squad
 Pheres-Band Tromper
@@ -380,7 +390,6 @@ Vulpine Goliath
 Pheres-Band Raiders
 Nemesis of Mortals
 Enormous Baloth
-Oakgnarl Warrior
 Archweaver
 Wildwood Scourge
 
@@ -392,12 +401,14 @@ Prey Upon
 
 //green spells 2cc
 Titanic Growth
+Swell of Growth
 
 //green spells 3cc
 Elephant Guide
 Kenrith's Transformation
 Clear Shot
 Scale the Heights
+Courage in Crisis
 
 //green spells 4cc
 Sudden Reclamation
@@ -411,12 +422,10 @@ Savage Conception
 
 //green spells xcc
 Strength of the Pack
-Feral Incarnation
 
 //Colorless
 
 //artifact creatures
-Chronomaton
 Sparring Construct
 Field Creeper
 Myr Sire
@@ -433,6 +442,7 @@ Guardians of Meletis
 Sickleslicer
 Skyscanner
 Shambling Suit
+Reflective Golem
 Pierce Strider
 Anvilwrought Raptor
 Skinwing
@@ -447,14 +457,14 @@ Honed Khopesh
 Trusty Machete
 Viridian Longbow
 Gorgon's Head
+Explorer's Scope
+Zephyr Boots
 Armory of Iroas
 Heart-Piercer Bow
 Pennon Blade
 
 //artifacts
 Conjurer's Bauble
-Explosive Apparatus
-Bloodtallow Candle
 Ghoulcaller's Bell
 Spare Supplies
 Cellar Door
@@ -469,9 +479,9 @@ Fate Transfer
 Turn to Mist
 Double Cleave
 Slitherhead
-Snakeform
+Square Up
 Nip Gwyllion
-Blistercoil Weird
+Teach by Example
 
 //multicolors
 Draconic Disciple
@@ -501,8 +511,8 @@ Nimbus Swimmer
 Maw of the Obzedat
 Harsh Sustenance
 Campaign of Vengeance
-Lightning Stormkin
 Goblin Electromancer
+Teleportal
 Enigma Drake
 
 //lands
@@ -511,13 +521,3 @@ Evolving Wilds
 Evolving Wilds
 Evolving Wilds
 Evolving Wilds
-Timber Gorge
-Cinder Barrens
-Tranquil Expanse
-Submerged Boneyard
-Meandering River
-Stone Quarry
-Foul Orchard
-Woodland Stream
-Forsaken Sanctuary
-Highland Lake
