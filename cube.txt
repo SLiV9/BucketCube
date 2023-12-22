@@ -6,26 +6,23 @@
 Yoked Ox
 Nyxborn Shieldmate
 Hopeful Eidolon
-Loyal Pegasus
 
 //white creatures 2cc
 Alpine Watchdog
 Niblis of the Urn
-Bishop's Soldier
 Ajani's Pridemate
 Oreskos Swiftclaw
 Sunspear Shikari
 Ainok Bond-Kin
 Steadfast Cathar
+Parish-Blade Trainee
 Cavalry Drillmaster
-Lightwalker
+Candlegrove Witch
 Akroan Skyguard
 Phalanx Leader
-Suture Priest
 
 //white creatures 3cc
 Attended Knight
-Haazda Officer
 Fiend Hunter
 Ironclad Slayer
 Observant Alseid
@@ -33,20 +30,22 @@ Dromoka Captain
 Devoted Crop-Mate
 Glint-Sleeve Artisan
 Graceblade Artisan
-Vryn Wingmare
+Gryff Rider
 Canyon Jerboa
+Ritual Guardian
 
 //white creatures 4cc
 Daysquad Marshal
 Falconer Adept
 Abzan Battle Priest
 Star-Crowned Stag
-Healer of the Pride
+Sigiled Contender
 Basri's Acolyte
+Duelcraft Trainer
 
 //white creatures 5cc
 Valorous Steed
-Dawnfeather Eagle
+Angelic Quartermaster
 
 //white creatures xcc
 Watchful Giant
@@ -67,15 +66,16 @@ Dauntless Unity
 Basri's Solidarity
 Long Road Home
 Will of the All-Hunter
+Recommission
 Ancestral Blade
 
 //white spells 3cc
 Borrowed Grace
+Arm the Cathars
 
 //white spells 4cc
 Divine Verdict
 Call the Cavalry
-Builder's Blessing
 Commanding Presence
 
 //white spells 5cc
@@ -99,23 +99,22 @@ Flitterstep Eidolon
 Omenspeaker
 Elusive Spellfist
 Jeskai Elder
-Tazeem Roilmage
 Shriekgeist
 Moat Piranhas
 Passwall Adept
+Haunting Figment
 
 //blue creatures 3cc
 Sea Gate Oracle
 Simic Fluxmage
 Cloudkin Seer
-Aeronaut Tinkerer
-Trinket Mage
 Triton Fortune Hunter
 Nyxborn Triton
 Niblis of Dusk
 Thieving Otter
 Mistblade Shinobi
 Kelpie Guide
+Mirror Image
 
 //blue creatures 4cc
 Tome Anima
@@ -124,6 +123,7 @@ Octoprophet
 Whirler Rogue
 Moonblade Shinobi
 Murmuring Mystic
+Meldweb Curator
 
 //blue creatures 5cc
 Pondering Mage
@@ -131,7 +131,6 @@ Air Elemental
 Shimmerscale Drake
 
 //blue creatures xcc
-Tolarian Kraken
 Cryptic Serpent
 Striped Riverwinder
 
@@ -140,6 +139,7 @@ Striped Riverwinder
 //blue spells 1cc
 Opt
 Sigil of Sleep
+Trickster's Talisman
 
 //blue spells 2cc
 Ordeal of Thassa
@@ -147,6 +147,7 @@ Blink of an Eye
 Hands of Binding
 Hidden Strings
 Ominous Seas
+Zhalfirin Shapecraft
 
 //blue spells 3cc
 Stealth Mission
@@ -158,7 +159,6 @@ Foresee
 Dampening Pulse
 Rain of Revelation
 Taigam's Strike
-Last Thoughts
 
 //blue spells 5cc
 Mind Control
@@ -187,8 +187,8 @@ Ravenous Rats
 Doomed Dissenter
 Miasmic Mummy
 Dune Beetle
-Returned Reveler
 Dusk Legion Zealot
+Spirit of Malevolence
 
 //black creatures 3cc
 Lawless Broker
@@ -196,11 +196,12 @@ Giant Scorpion
 Wakedancer
 Veiled Shade
 Baleful Ammit
-Weaponcraft Enthusiast
 Nightsquad Commando
 Demon's Disciple
+Gibbering Barricade
 
 //black creatures 4cc
+Suspicious Shambler
 Gravedigger
 Falkenrath Noble
 Skeleton Archer
@@ -224,13 +225,13 @@ Maalfeld Twins
 Bone Splinters
 Village Rites
 Undying Evil
-Coat with Venom
 
 //black spells 2cc
 Grave Strength
 Eternal Thirst
-Cast into Darkness
 Subtle Strike
+Shadows of the Past
+Malefic Scythe
 
 //black spells 3cc
 Soul Salvage
@@ -240,7 +241,6 @@ Inevitable End
 Bastion of Remembrance
 
 //black spells 4cc
-Moan of the Unhallowed
 Strangling Spores
 Parasitic Implant
 Barter in Blood
@@ -264,44 +264,44 @@ Fireblade Charger
 
 //red creatures 2cc
 Feral Maaka
-Gore-House Chainwalker
 Ashmouth Hound
 Mogg Flunkies
 Firebrand Archer
+Young Pyromancer
 Heartfire Immolator
 Sigiled Skink
 Immersturm Raider
+Trailblazing Historian
+War-Name Aspirant
 
 //red creatures 3cc
 Frenzied Raptor
 Bolt Hound
 Raging Redcap
 Spikeshot Goblin
-Hardened Berserker
 Inner-Flame Igniter
 Spelleater Wolverine
 Tuskeri Firewalker
+Karsus Depthguard
 
 //red creatures 4cc
 Keldon Raider
-Bloodfray Giant
 Furnace Whelp
-Scrapyard Mongrel
 Ill-Tempered Cyclops
 Bloodfire Enforcers
 Arena Trickster
+Wildfire Elemental
 
 //red creatures 5cc
 Rubblebelt Recluse
 Wildfire Cerberus
 Charging Tuskodon
-Hagi Mob
+Resistance Skywarden
 Ardent Dustspeaker
 
 //red creatures xcc
 Chartooth Cougar
 Markov Warlord
-Shockmaw Dragon
 Volcanic Dragon
 
 //spells
@@ -310,23 +310,23 @@ Volcanic Dragon
 Infuriate
 Dragon Mantle
 Shivan Fire
-Footfall Crater
 Tormentor's Helm
 
 //red spells 2cc
 Lightning Strike
 Roil Eruption
 Fall of the Hammer
-Frenzied Rage
 Temur Battle Rage
 Sparkmage's Gambit
 Dragon Fodder
 Goblin Oriflamme
+Tempered in Solitude
 
 //red spells 3cc
 Act of Treason
 Arc Lightning
 Uncaged Fury
+Daring Piracy
 
 //red spells 4cc
 Blood Mist
@@ -354,7 +354,7 @@ Voyaging Satyr
 Boneyard Wurm
 Baloth Pup
 Drudge Beetle
-Quirion Dryad
+Coiling Stalker
 
 //green creatures 3cc
 Battering Krasis
@@ -368,10 +368,10 @@ Springmane Cervin
 Loaming Shaman
 Horizon Seeker
 Evolution Sage
+Serpent-Blade Assailant
 
 //green creatures 4cc
 Rumbling Baloth
-Bellowing Elk
 Wildheart Invoker
 Longshot Squad
 Pheres-Band Tromper
@@ -398,6 +398,7 @@ Wildwood Scourge
 //green spells 1cc
 Arbor Armament
 Prey Upon
+Massive Might
 
 //green spells 2cc
 Titanic Growth
@@ -408,7 +409,6 @@ Elephant Guide
 Kenrith's Transformation
 Clear Shot
 Scale the Heights
-Courage in Crisis
 
 //green spells 4cc
 Sudden Reclamation
@@ -443,10 +443,11 @@ Sickleslicer
 Skyscanner
 Shambling Suit
 Reflective Golem
+Reito Sentinel
 Pierce Strider
-Anvilwrought Raptor
+Steel Dromedary
+Paragon of Modernity
 Skinwing
-Forgotten Sentinel
 Stone Golem
 Lumengrid Gargoyle
 Meteor Golem
@@ -464,9 +465,8 @@ Heart-Piercer Bow
 Pennon Blade
 
 //artifacts
-Conjurer's Bauble
 Ghoulcaller's Bell
-Spare Supplies
+Levitating Statue
 Cellar Door
 Whirlermaker
 Heraldic Banner
@@ -503,7 +503,7 @@ Weapons Trainer
 Ride Down
 Heroic Reinforcements
 Twinblade Assassins
-Death Frenzy
+Grizzly Ghoul
 Baloth Null
 Lorescale Coatl
 Primal Empathy
